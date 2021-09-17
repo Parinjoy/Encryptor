@@ -1,4 +1,4 @@
-#Last Self made Project
+#comments are debugging statements
 import pickle
 import random
 
